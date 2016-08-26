@@ -6,6 +6,7 @@
     <title>黎松科技-项目展示</title>
     <link rel="shortcut icon" href="images/web_ico.ico">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/style.min.4a919fc6.css">
     <script src="js/jquery-1.11.2.min.js"></script>
     <script type="text/javascript" async="" src="http://static.xiaomi.net/93494/scripts/market/app/ga.js"></script>
@@ -17,6 +18,22 @@
         }
     });
     </script>
+    <script>
+    $(document).ready(function() {
+
+        $(".contact-hide").css('display', 'none');
+        $(".mask").css('display', 'none');
+
+        $(".footer-container ul:nth-child(3) li:nth-child(3) a").click(function(event) {
+            $(this).siblings('div.mask').show();
+            $(".contact-hide").slideDown();
+        });
+        $(".close-btn").click(function(event) {
+            $(".mask").hide();
+            $(".contact-hide").slideUp();
+        });
+    });
+    </script>
 </head>
 
 <body>
@@ -26,24 +43,27 @@
                 <img src="images/logo_03.png" height="49" width="226" alt="Lensent">
                 <span>创新就是黎松</span>
             </a>
-            <ul>
-                <li>
-                    <a href="index.html"></a>
-                </li>
-                <li>
-                    <a href="introduction.html"></a>
-                </li>
-                <li>
-                    <a href="project.html"></a>
-                </li>
-                <li>
-                    <a href="member.html"></a>
-                </li>
-                <li>
-                    <a href="http://www.mikecrm.com/f.php?t=CCnAeS" target="_blank"></a>
-                    </a>
-                </li>
-            </ul>
+            <nav class="navbar navbar-default">
+                <div class="container">
+                    <span class="menu"> Menu</span>
+                    <div class="banner-top">
+                        <ul class="nav banner-nav">
+                            <li><a class="" href="index.html">首页</a></li>
+                            <li><a class="down-scroll" href="introduction.html">团队介绍</a></li>
+                            <li><a class="down-scroll" href="project.html">项目展示</a></li>
+                            <li><a class="down-scroll" href="member.html">成员展示</a></li>
+                            <li><a class="down-scroll" href="">加入我们</a></li>
+                        </ul>
+                        <script>
+                        $("span.menu").click(function() {
+                            $(" ul.nav").slideToggle("slow", function() {});
+                        });
+                        </script>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
             <div style="clear: both"></div>
         </div>
     </div>
@@ -247,21 +267,6 @@
         a.each(c.sinatureList, function(c, b) {
             "com.lensent.wakeup" === b.pName && (a("#organization").text(b.organization), a("#validity").text(b.validity), a("#signatureDesc").text(b.signatureDesc), a("#sinatureList").show())
         })
-    });
-    </script>
-    <script type="text/javascript">
-    $(document).ready(function() {
-        $(".contact-hide").css('display', 'none');
-        $(".mask").css('display', 'none');
-
-        $(".footer-container ul:nth-child(3) li:nth-child(3) a").click(function(event) {
-            $(this).siblings('div.mask').show();
-            $(".contact-hide").slideDown();
-        });
-        $(".close-btn").click(function(event) {
-            $(".mask").hide();
-            $(".contact-hide").slideUp();
-        });
     });
     </script>
 </body>

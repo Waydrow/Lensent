@@ -87,7 +87,7 @@ a:hover{
 	float: right;
 }
 .header-container ul li{
-	margin-right: 80px;
+	/*margin-right: 80px;*/
 	float: left;
 }
 .header-container ul li:last-child{
@@ -95,12 +95,12 @@ a:hover{
 }
 .header-container ul li a{
 	display: block;
-	width: 95px;
-	height: 37px;
+	/*width: 95px;*/
+	/*height: 37px;*/
 	margin: 0 auto;
 	margin-top: 45px;
 }
-.header-container ul li:first-child a{
+/* .header-container ul li:first-child a{
 	width: 47px;
 	background: url(../images/home_12.png) no-repeat
 }
@@ -131,7 +131,30 @@ a:hover{
 .header-container ul li:nth-child(5) a:hover{
 	background: url(../images/join-hover_10.png) no-repeat;
 }
+ */
+span.menu {
+	display: none;
+}
+@media screen and (max-width: 1024px){
+	span.menu {
+	    display: block;
+		cursor: pointer;
+		float: none;
+		margin: 3px auto 0em auto;
+		width: 10%;
+		background-color: #2a9ad4;
+		color: #fff;
+		text-align: center;
+		padding: 6px;
+		font-size: 16px;
+		font-weight: 500;
+		position: relative;
+	}
+}
 
+.nav li a {
+	color: #000;
+}
 
 .flickerplate {
 	position:relative;
@@ -637,4 +660,12 @@ div.container{
 	.footer-container ul{
 		margin-right: 19%;
 	}
+}
+
+.contact-hide {
+	display: none;
+}
+
+.mask {
+	display: none;
 }
