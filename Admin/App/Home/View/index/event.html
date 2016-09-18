@@ -1,0 +1,42 @@
+<div class="btn-toolbar list-toolbar">
+    <a href="{:U("Home/Index/eventEdit")}" class="btn btn-primary"><i class="fa fa-plus"></i> 发布事件</a>
+  <div class="btn-group">
+  </div>
+</div>
+<table class="table">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>标题</th>
+      <th>发布地点</th>
+      <th>发布时间</th>
+      <th style="width: 3.5em;"></th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <volist name="list" id="vo"  >
+      <tr>
+        <td>{$i}</td>
+        <td>{$vo.title}</td>
+        <td>{$vo.place}</td>
+        <td>{$vo.time}</td>
+        <td><a href="{:U("Home/Index/eventEdit?id=$vo[id]")}"><i class="fa fa-pencil"></i></a>
+         <a href="{:U("Home/Index/delEvent?id=$vo[id]")}" role="button" data-toggle="modal" onclick="del();"><i class="fa fa-trash-o"></i></a>
+          </td>
+      </tr>
+    </volist>
+
+
+  </tbody>
+</table>
+
+
+<script type="text/javascript">
+      function del()
+      {
+        if (!confirm("确认要删除？")) {
+            window.event.returnValue = false;
+        }
+      }
+</script>

@@ -1,0 +1,42 @@
+<script> 
+function checkUser(){
+   var name = document.getElementById("name").value;
+   var account = document.getElementById("account").value;
+   var password = document.getElementById("password").value;
+    if(name == ""  ){
+        alert("帐号不能为空");
+        return false;
+    }
+    if(password == ""  ){
+        alert("密码不能为空");
+        return false;
+    }
+    if(power!="0"&&power!="1") {
+        alert("权限格式不正确");
+        return false;
+    }
+    return true;
+}
+</script>
+
+<div class="row">
+  <div class="col-md-4">
+    <br>
+    <div id="myTabContent" class="tab-content">
+      <div class="tab-pane active in" id="home" >
+      <form id="tab" method='post' onsubmit = "return checkUser();" >
+        <div class="form-group">
+        <label>帐号</label>
+        <input type="text" name="name" id="name" value="{$list[0]['name']}" class="form-control">
+        </div>
+        <div class="form-group">
+        <label>密码</label>
+        <input type="password" name="password" id="password" value="{$list[0]['password']}" class="form-control">
+        </div>
+      </div>
+
+    <div class="btn-toolbar list-toolbar">
+      <button class="btn btn-primary"><i class="fa fa-save" ></i> 保存</button>
+    </div>
+    </form>
+  </div>

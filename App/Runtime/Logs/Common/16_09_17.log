@@ -1,0 +1,951 @@
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-09-17T12:39:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/web_ico.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-09-17T12:39:25+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-09-17T12:39:26+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-09-17T12:39:30+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-09-17T12:40:16+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/display_standard_large.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-09-17T12:40:22+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/logo_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-09-17T12:41:31+08:00 ] ::1 /Lensent/index.php/Home/Index/public/images/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/liuguangsheng.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006127s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/_PUBLIC_/images/lizihan_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010155s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/songhuaihao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhengzuowu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyaolong.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zouanxu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/dongsizhe.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013154s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lixx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2016-09-17T13:40:23+08:00 ] ::1 /Lensent/index.php/Home/Index/images/hanrui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001952s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/duyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002575s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangtengda.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003589s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangruixin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001918s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001490s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000367s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001879s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/chenjiqian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+
+[ 2016-09-17T13:40:24+08:00 ] ::1 /Lensent/index.php/Home/Index/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000482s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004199s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/_PUBLIC_/images/lizihan_03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/liuguangsheng.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001883s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangruixin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyaolong.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/songhuaihao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002763s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lixx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001689s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/hanrui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangtengda.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001575s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zouanxu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/dongsizhe.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/chenjiqian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028665s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002166s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhengzuowu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/duyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001539s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001547s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001455s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001441s ]
+
+[ 2016-09-17T13:40:26+08:00 ] ::1 /Lensent/index.php/Home/Index/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/songhuaihao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/liuguangsheng.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/dongsizhe.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhengzuowu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangruixin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005496s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangtengda.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002199s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyaolong.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lixx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024588s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zouanxu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.070833s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/hanrui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000386s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007322s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/duyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/chenjiqian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhouyibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001563s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003527s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005355s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+
+[ 2016-09-17T13:41:06+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+
+[ 2016-09-17T13:41:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012290s ]
+
+[ 2016-09-17T13:41:06+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002683s ]
+
+[ 2016-09-17T13:41:06+08:00 ] ::1 /Lensent/index.php/Home/Index/images/contact-us.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+
+[ 2016-09-17T13:41:06+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003328s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002352s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004433s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000757s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002167s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000407s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001897s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000327s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002144s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000789s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002174s ]
+
+[ 2016-09-17T13:41:56+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002791s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003402s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024113s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001653s ]
+
+[ 2016-09-17T13:42:00+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003890s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000300s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002066s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001611s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+
+[ 2016-09-17T13:42:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001799s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030390s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006508s ]
+
+[ 2016-09-17T13:42:29+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022681s ]
+
+[ 2016-09-17T13:46:13+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001684s ]
+
+[ 2016-09-17T13:46:13+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002246s ]
+
+[ 2016-09-17T13:46:13+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+
+[ 2016-09-17T13:46:13+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002328s ]
+
+[ 2016-09-17T13:46:14+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+
+[ 2016-09-17T13:46:14+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+
+[ 2016-09-17T13:46:14+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2016-09-17T13:46:14+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001861s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002138s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003062s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001556s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001510s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+
+[ 2016-09-17T14:09:25+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001916s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010703s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001658s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+
+[ 2016-09-17T14:11:19+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+
+[ 2016-09-17T14:29:04+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangshuyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/yangfuhao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002091s ]
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/wangzhengyang.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/lizhirui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001527s ]
+
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/maqiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhangxuting.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+
+[ 2016-09-17T14:29:05+08:00 ] ::1 /Lensent/index.php/Home/Index/images/zhuoyue.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001738s ]
+

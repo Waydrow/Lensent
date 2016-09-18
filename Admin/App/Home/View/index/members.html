@@ -1,0 +1,35 @@
+ <a class="btn btn-primary" href="javascript:history.go(-1);">返回</a>
+<table class="table">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>姓名</th>
+      <th>职务</th>
+        <th>部门</th>
+      <th style="width: 3.5em;"></th>
+    </tr>
+  </thead>
+  <tbody>
+       <volist name="list" id="vo"  >
+      <tr>
+        <td>{$i}</td>
+        <td>{$vo.name}</td>
+        <td>{$vo.identity}</td>
+          <td>{$vo.power}</td>
+        <td>
+        <a href="{:U("Home/Index/member?id=$vo[id]")}"><i class="fa fa-pencil"></i></a>
+      <a href="{:U("Home/Index/delMember?id=$vo[id]")}" role="button" data-toggle="modal" onclick="del();"><i class="fa fa-trash-o"></i></a>
+          </td>
+      </tr>
+    </volist>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+      function del()
+      {
+        if (!confirm("确认要删除？")) {
+            window.event.returnValue = false;
+        }
+      }
+</script>
